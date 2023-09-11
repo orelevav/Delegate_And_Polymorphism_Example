@@ -1,0 +1,6 @@
+C:\Users\orellev\Desktop\.net\DelegateExample2\DelegateExample2\bin\Debug\DelegateExample2.exe.config
+C:\Users\orellev\Desktop\.net\DelegateExample2\DelegateExample2\bin\Debug\DelegateExample2.exe
+C:\Users\orellev\Desktop\.net\DelegateExample2\DelegateExample2\bin\Debug\DelegateExample2.pdb
+C:\Users\orellev\Desktop\.net\DelegateExample2\DelegateExample2\obj\Debug\DelegateExample2.csproj.CoreCompileInputs.cache
+C:\Users\orellev\Desktop\.net\DelegateExample2\DelegateExample2\obj\Debug\DelegateExample2.exe
+C:\Users\orellev\Desktop\.net\DelegateExample2\DelegateExample2\obj\Debug\DelegateExample2.pdb

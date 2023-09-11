@@ -1,0 +1,14 @@
+C:\Users\orellev\Desktop\.net\DelegateExample2\MathDelegate\bin\Debug\MathDelegate.exe.config
+C:\Users\orellev\Desktop\.net\DelegateExample2\MathDelegate\bin\Debug\MathDelegate.exe
+C:\Users\orellev\Desktop\.net\DelegateExample2\MathDelegate\bin\Debug\MathDelegate.pdb
+C:\Users\orellev\Desktop\.net\DelegateExample2\MathDelegate\obj\Debug\MathDelegate.csprojAssemblyReference.cache
+C:\Users\orellev\Desktop\.net\DelegateExample2\MathDelegate\obj\Debug\MathDelegate.csproj.CoreCompileInputs.cache
+C:\Users\orellev\Desktop\.net\DelegateExample2\MathDelegate\obj\Debug\MathDelegate.exe
+C:\Users\orellev\Desktop\.net\DelegateExample2\MathDelegate\obj\Debug\MathDelegate.pdb
+C:\Users\orellev\Desktop\.net\MathDelegate\bin\Debug\MathDelegate.exe.config
+C:\Users\orellev\Desktop\.net\MathDelegate\bin\Debug\MathDelegate.exe
+C:\Users\orellev\Desktop\.net\MathDelegate\bin\Debug\MathDelegate.pdb
+C:\Users\orellev\Desktop\.net\MathDelegate\obj\Debug\MathDelegate.csprojAssemblyReference.cache
+C:\Users\orellev\Desktop\.net\MathDelegate\obj\Debug\MathDelegate.csproj.CoreCompileInputs.cache
+C:\Users\orellev\Desktop\.net\MathDelegate\obj\Debug\MathDelegate.exe
+C:\Users\orellev\Desktop\.net\MathDelegate\obj\Debug\MathDelegate.pdb

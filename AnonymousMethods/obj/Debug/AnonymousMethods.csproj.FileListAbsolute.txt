@@ -1,0 +1,7 @@
+C:\Users\orellev\Desktop\.net\DelegateExample2\AnonymousMethods\bin\Debug\AnonymousMethods.exe.config
+C:\Users\orellev\Desktop\.net\DelegateExample2\AnonymousMethods\bin\Debug\AnonymousMethods.exe
+C:\Users\orellev\Desktop\.net\DelegateExample2\AnonymousMethods\bin\Debug\AnonymousMethods.pdb
+C:\Users\orellev\Desktop\.net\DelegateExample2\AnonymousMethods\obj\Debug\AnonymousMethods.csprojAssemblyReference.cache
+C:\Users\orellev\Desktop\.net\DelegateExample2\AnonymousMethods\obj\Debug\AnonymousMethods.csproj.CoreCompileInputs.cache
+C:\Users\orellev\Desktop\.net\DelegateExample2\AnonymousMethods\obj\Debug\AnonymousMethods.exe
+C:\Users\orellev\Desktop\.net\DelegateExample2\AnonymousMethods\obj\Debug\AnonymousMethods.pdb

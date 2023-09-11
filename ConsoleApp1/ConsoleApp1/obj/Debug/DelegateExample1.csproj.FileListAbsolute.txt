@@ -1,0 +1,6 @@
+C:\Users\orellev\Desktop\.net\ConsoleApp1\ConsoleApp1\bin\Debug\DelegateExample1.exe.config
+C:\Users\orellev\Desktop\.net\ConsoleApp1\ConsoleApp1\bin\Debug\DelegateExample1.exe
+C:\Users\orellev\Desktop\.net\ConsoleApp1\ConsoleApp1\bin\Debug\DelegateExample1.pdb
+C:\Users\orellev\Desktop\.net\ConsoleApp1\ConsoleApp1\obj\Debug\DelegateExample1.csproj.CoreCompileInputs.cache
+C:\Users\orellev\Desktop\.net\ConsoleApp1\ConsoleApp1\obj\Debug\DelegateExample1.exe
+C:\Users\orellev\Desktop\.net\ConsoleApp1\ConsoleApp1\obj\Debug\DelegateExample1.pdb

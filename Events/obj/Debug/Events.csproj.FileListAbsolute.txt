@@ -1,0 +1,14 @@
+C:\Users\orellev\Desktop\.net\DelegateExample2\Events\bin\Debug\Events.exe.config
+C:\Users\orellev\Desktop\.net\DelegateExample2\Events\bin\Debug\Events.exe
+C:\Users\orellev\Desktop\.net\DelegateExample2\Events\bin\Debug\Events.pdb
+C:\Users\orellev\Desktop\.net\DelegateExample2\Events\obj\Debug\Events.csprojAssemblyReference.cache
+C:\Users\orellev\Desktop\.net\DelegateExample2\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\orellev\Desktop\.net\DelegateExample2\Events\obj\Debug\Events.exe
+C:\Users\orellev\Desktop\.net\DelegateExample2\Events\obj\Debug\Events.pdb
+C:\Users\orellev\Desktop\.net\Events\bin\Debug\Events.exe.config
+C:\Users\orellev\Desktop\.net\Events\bin\Debug\Events.exe
+C:\Users\orellev\Desktop\.net\Events\bin\Debug\Events.pdb
+C:\Users\orellev\Desktop\.net\Events\obj\Debug\Events.csprojAssemblyReference.cache
+C:\Users\orellev\Desktop\.net\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\orellev\Desktop\.net\Events\obj\Debug\Events.exe
+C:\Users\orellev\Desktop\.net\Events\obj\Debug\Events.pdb
